@@ -10,6 +10,7 @@ the following diagram  shows the main framework:
 
 <img width="461" alt="image" src="https://github.com/elisagranadino/Lab1_PCC_ElisaGranadino/assets/132360096/b62e847d-bfa2-4e19-97c5-781868444fc0">
 
+
 Insert bibliography (with DOI)
 
 [1] Ferro, D., Cash-Padgett, T., Wang, M. Z., Hayden, B., Moreno-Bote, R. (2023). Gaze-centered gating and reactivation of value encoding in orbitofrontal cortex bioRxiv 2023.04.20.537677. https://doi.org/10.1101/2023.04.20.537677
