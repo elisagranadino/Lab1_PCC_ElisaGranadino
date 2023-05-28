@@ -1,4 +1,4 @@
-# Lab1_PCC_ElisaGranadino
+# Lab1 Scientific Comunication Proyect
 Asignatura Proyecto de Comunicació Cientifica
 
 Name: Elisa Surname: Granadino Bomitali UNIS: Universidad Pompeu Fabra
@@ -11,13 +11,16 @@ the following diagram  shows the main framework:
 <img width="461" alt="image" src="https://github.com/elisagranadino/Lab1_PCC_ElisaGranadino/assets/132360096/b62e847d-bfa2-4e19-97c5-781868444fc0">
 
 
-Insert bibliography (with DOI)
+Bibliography (with DOI):
+[1] Whitley, D. A genetic algorithm tutorial. Stat Comput 4, 65–85 (1994). 
+https://doi.org/10.1007/BF00175354
 
-[1] Ferro, D., Cash-Padgett, T., Wang, M. Z., Hayden, B., Moreno-Bote, R. (2023). Gaze-centered gating and reactivation of value encoding in orbitofrontal cortex bioRxiv 2023.04.20.537677. https://doi.org/10.1101/2023.04.20.537677
+[2] Wonjae Lee and Hak-Young Kim, "Genetic algorithm implementation in Python," Fourth Annual ACIS International Conference on Computer and Information Science (ICIS'05), Jeju, Korea (South), 2005, pp. 8-11, doi: 10.1109/ICIS.2005.69.
 
-[2] Ferro, D., van Kempen, J., Boyd, M., Panzeri, S., & Thiele, A. (2021). Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. Proceedings of the National Academy of Sciences, 118(12), e2022097118. https://doi.org/10.1073/pnas.2022097118
+[3] Kumar, Manoj and Husain, Mohammad and Upreti, Naveen and Gupta, Deepti, Genetic Algorithm: Review and Application (December 1, 2010).
+http://dx.doi.org/10.2139/ssrn.3529843
 
-[3] Moreno-Bote, R., Beck, J., Kanitscheider, I., Pitkow, X., Latham, P., & Pouget, A. (2014). Information-limiting correlations. Nature neuroscience, 17(10), 1410-1417. https://doi.org/10.1038/nn.3807
+[4] Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). https://doi.org/10.1038/s41586-020-2649-2
 
 License Creative-Common (CC 4.0)
 
