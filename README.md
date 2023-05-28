@@ -3,11 +3,11 @@ Asignatura Proyecto de Comunicació Cientifica
 
 Name: Elisa Surname: Granadino Bomitali UNIS: Universidad Pompeu Fabra
 
-Introduce your project:
 The code implements the canonical genetic algorithm to solve the following problem: finding the coefficients of a line in order to find the line that best fits a series of observed points. After generating the data, I defined a series of functions that will be used to implement parts of the algorithm. This will allow me to verify that these different parts work correctly. With subsequent small modifications, I will finally unify them in the implementation of the complete algorithm. The main objective of the final function is to ensure that the best individual of each generation always passes to the next one. 
 
 
 the following diagram  shows the main framework:
+
 <img width="461" alt="image" src="https://github.com/elisagranadino/Lab1_PCC_ElisaGranadino/assets/132360096/b62e847d-bfa2-4e19-97c5-781868444fc0">
 
 Insert bibliography (with DOI)
