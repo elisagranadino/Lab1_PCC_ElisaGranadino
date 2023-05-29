@@ -11,7 +11,9 @@ the following diagram  shows the main framework:
 <img width="461" alt="image" src="https://github.com/elisagranadino/Lab1_PCC_ElisaGranadino/assets/132360096/b62e847d-bfa2-4e19-97c5-781868444fc0">
 
 
+
 Bibliography (with DOI):
+
 [1] Whitley, D. A genetic algorithm tutorial. Stat Comput 4, 65–85 (1994). 
 https://doi.org/10.1007/BF00175354
 
